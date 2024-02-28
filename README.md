@@ -1,4 +1,7 @@
 # SSRFuzzer
+<p align="center">
+  <img src="temple.jpeg">
+</p>
 
 ## Introduction
 
