@@ -33,9 +33,9 @@ cd your-repository
 2. Set the thread number and modify the request accordingly to your SSRF vuln payload structure
 4. Compile the Code
 ```
-go build
+go build ssrfuzzer.go
 ```
 5. Run it
 ```
-./ssrfuzz
+./ssrfuzzer
 ```
