@@ -27,8 +27,6 @@ To use this script, you need to have [Go](https://golang.org/) installed on your
 
 ```
 git clone https://github.com/L3ster1337/SSRFuzzer.git
-
-cd your-repository
 ```
 2. Set the thread number and modify the request accordingly to your SSRF vuln payload structure
 4. Compile the Code
