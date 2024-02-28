@@ -20,7 +20,7 @@ func main() {
 
     var wg sync.WaitGroup
 
-    for port := 80; port <= 65535; port++ {
+    for port := 21; port <= 65535; port++ {
         wg.Add(1)
 
         semaphore <- struct{}{}
